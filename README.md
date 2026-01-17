@@ -5,4 +5,6 @@ This project performs a broadband analysis of radio spectra for a sample of 33 c
 
 ## Key Features
 * **SED Modeling:** Implementation of polynomial models and confidence intervals to fit observed data points for each class (Peak, Upturn, and Linear 'power law' sources).
-* **Visualization:** Clear plotting of SEDs with confidence intervals and error bars.
+* **Visualization:** Clear plotting of SEDs with confidence intervals and error bars. E.g PKS J0318+1628
+  
+ ![Alt Text](SED_plots/Specfit_models2/J0318+1628_specfit_model_spectrum.png)
